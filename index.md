@@ -32,29 +32,14 @@ Galaxy est une plateforme web gratuite pour l’analyse de données de séquenç
 
 ---
 
-## 🛠️ Étapes du TP
+## Étapes du TP (cliquez pour accéder aux détails)
 
-1. **Importation des données**
-   - Depuis un lien partagé ou depuis l’outil FTP
-
-2. **Contrôle qualité**
-   - `FastQC` pour évaluer la qualité des lectures
-
-3. **Pré-traitement**
-   - `Trim Galore!` ou `Cutadapt` (si nécessaire)
-
-4. **Alignement au génome**
-   - Utilisation de `HISAT2` ou `STAR`
-
-5. **Comptage des lectures par gène**
-   - `FeatureCounts` avec une annotation `.gtf`
-
-6. **Analyse différentielle**
-   - `DESeq2` (galaxy wrapper)
-   - Obtention de log2FC, p-value, volcano plot
-
-7. **Visualisation**
-   - Heatmap, MA-plot, table des gènes exprimés
+1. [Contrôle qualité - FastQC](./1-fastqc.md)  
+2. [Pré-traitement - Trim Galore!](./2-trim-galore.md)  
+3. [Alignement - HISAT2](./3-hisat2.md)  
+4. [Comptage - FeatureCounts](./4-featurecounts.md)  
+5. [Analyse différentielle - DESeq2](./5-deseq2.md)  
+6. [Visualisation - MultiQC](./6-visualisation.md)
 
 ---
 
