@@ -23,7 +23,7 @@ Dans cette étape, nous allons aligner les lectures nettoyées RNA-seq sur un g�
 
 ### 3. Paramétrage de l’outil
 
-* **Source for the reference genome** : Sélectionnez le génome de référence approprié (ex : Arabidopsis thaliana ou Homo sapiens).
+* **Source for the reference genome** : Sélectionnez le génome de référence approprié (ex : Arabidopsis thaliana).
 * **Single-end or paired-end reads?** : Choisissez selon votre type de données (single-end ou paired-end).
 * **FASTQ file** : sélectionnez vos fichiers nettoyés (trimmed).
 * Laissez les autres paramètres par défaut, puis cliquez sur **Execute**.
