@@ -35,7 +35,7 @@ Galaxy est une plateforme web gratuite pour l’analyse de données de séquenç
 ## Étapes du TP (cliquez pour accéder aux détails)
 
 1. [Contrôle qualité - FastQC](./1-fastqc.md)  
-2. [Pré-traitement - Trim Galore!](./2-trim-galore.md)  
+2. [Pré-traitement - Trimmomatic!](./2-trim-galore.md)  
 3. [Alignement - HISAT2](./3-hisat2.md)  
 4. [Comptage - FeatureCounts](./4-featurecounts.md)  
 5. [Analyse différentielle - DESeq2](./5-deseq2.md)  
