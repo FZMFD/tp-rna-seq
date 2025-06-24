@@ -41,13 +41,6 @@ Galaxy est une plateforme web gratuite pour l’analyse de données de séquenç
 5. [Analyse différentielle - DESeq2](./5-deseq2.md)  
 6. [Visualisation - MultiQC](./6-visualisation.md)
 
----
-
-## 📂 Ressources utiles
-
-- 🔗 [Galaxy Training Material - RNA-seq](https://training.galaxyproject.org/training-material/topics/transcriptomics/)
-- 📑 [Fiche technique DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html)
-- 📚 Référence article : Wang et al., RNA-Seq: a revolutionary tool for transcriptomics (2010)
 
 ---
 
