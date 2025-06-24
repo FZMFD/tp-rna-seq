@@ -43,7 +43,7 @@ Galaxy est une plateforme web gratuite pour l’analyse de données de séquenç
 4. [Comptage - FeatureCounts](./4-featurecounts.md)
 5. [Annotation - AnnotateMyIDs](./5-AnnotateMyIDs.md)
 6. [Analyse différentielle - Limma](./5-deseq2.md)  
-7. [Visualisation - MultiQC](./6-visualisation.md)
+7. [Interprétation](./6-visualisation.md)
 
 
 ---
