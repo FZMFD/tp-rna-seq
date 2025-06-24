@@ -16,14 +16,10 @@
 
 ### 1. Télécharger les fichiers FASTQ (single-end) depuis SRA
 
-Nous utiliserons les fichiers RNA-seq du projet **SRP101277** (Arabidopsis thaliana) :  
+Nous utiliserons les fichiers RNA-seq du projet **SRP101277** (Arabidopsis thaliana) 
 
-| Condition | Description            | Lien FASTQ direct (clique droit → copier l'adresse) |
-|-----------|------------------------|-----------------------------------------------------|
-| Contrôle  | Wild-type non traité   | https://sra-download.ncbi.nlm.nih.gov/traces/sra66/SRR/005419/SRR5309277/SRR5309277.fastq.gz 
-ou https://drive.google.com/file/d/1exh1H7JpQ5lCoh4d9YnT_kGXcmwkgh1h/view?usp=drive_link|
-| Traité    | Mutant mkp1 traité     | https://sra-download.ncbi.nlm.nih.gov/traces/sra66/SRR/005419/SRR5309278/SRR5309278.fastq.gz |
-
+** La plante contrôle ** -(https://drive.google.com/file/d/1exh1H7JpQ5lCoh4d9YnT_kGXcmwkgh1h/view?usp=drive_link)
+** La plante traitée ** -(https://drive.google.com/file/d/1fB9h_TW9y5tFRjR7fWQ3_nEkyVMdYcPt/view?usp=drive_link)
 ---
 
 ## 🧰 Plateforme utilisée
