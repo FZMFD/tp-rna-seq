@@ -15,6 +15,7 @@
 ## 📝 Jeu de données
 
 - Fichier fourni : **rna_seq_deseq2_results.md** (ou .tsv/.csv)
+  -(https://drive.google.com/file/d/10cAfpUHaTuOiqQi9BfvPk2DSDe9YL8Qz/view?usp=drive_link)
 - Colonnes disponibles :  
   - `gene_id` : identifiant du gène  
   - `log2FoldChange` : variation d’expression (log2)  
