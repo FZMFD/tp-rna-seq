@@ -16,6 +16,7 @@ Cette étape consiste à compter le nombre de lectures RNA-seq alignées sur cha
 ### 1. Connexion à Galaxy
 
 * Connectez-vous à [Galaxy Europe](https://usegalaxy.eu).
+  -(https://drive.google.com/file/d/13Ji8rjy3WEvJfrNaRAfcghYNQO07o46p/view?usp=drive_link)
 
 ### 2. Sélection de l'outil FeatureCounts
 
